@@ -1,4 +1,3 @@
-# Aaron Wolcott
 # Text Based Adventure Game
 
 # Welcome statement explaining how the game works and was is expected, along with directions.
